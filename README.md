@@ -1,3 +1,3 @@
 # best-repo-ever
 # hello world
-# Conflict 2
+# try creating a conflict
