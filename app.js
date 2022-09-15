@@ -11,5 +11,6 @@ const app = {
     six: 6,
 
     eleven : 11,
-    twelfth: 12
+    twelfth: 12,
+    thirdteen: 13
 };
