@@ -10,5 +10,6 @@ const app = {
     five: 5,
     six: 6,
 
-    eleven : 11
+    eleven : 11,
+    twelfth: 12
 };
