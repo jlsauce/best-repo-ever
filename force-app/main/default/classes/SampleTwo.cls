@@ -6,4 +6,8 @@
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 public class SampleTwo {
+
+// commit2
+public Integer number1 = 0;
+
 }
