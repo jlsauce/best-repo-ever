@@ -13,6 +13,11 @@ Integer size;
 
    // The no argument constructor 
    public Sample() {
-      // more code here
+      this(DEFAULT_SIZE);
+   }
+
+   // Constructor with one argument 
+   public TestObject2(Integer ObjectSize) {
+     size = ObjectSize;  
    }
 }
