@@ -24,4 +24,5 @@ const app = {
 
     another one
     second one
+    third one
 };
