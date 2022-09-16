@@ -20,4 +20,7 @@ Integer size;
    public TestObject2(Integer ObjectSize) {
      size = ObjectSize;  
    }
+
+   public String testMethod(){
+   }
 }
