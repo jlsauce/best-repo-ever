@@ -19,4 +19,5 @@ const app = {
     test3: 16
 
     new commit
+    another commit
 };
