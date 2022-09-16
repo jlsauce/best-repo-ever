@@ -8,11 +8,7 @@
 public class SampleTwo {
 
 
-// commit1
-public Integer number0 = 0;
 
-// commit2
-public Integer number1 = 0;
 
 
 }
