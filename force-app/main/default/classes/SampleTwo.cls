@@ -10,5 +10,5 @@ public class SampleTwo {
 
 // hello world
 // malamut
-//bla change
+//changes
 }
