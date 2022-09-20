@@ -3,4 +3,4 @@
 # second one
 # commit again
 # changes in branch
-# create a conflict
+# confirm conflict
